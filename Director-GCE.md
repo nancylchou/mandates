@@ -32,7 +32,7 @@ Secondary | This role is secondarily aligned to the **Make our Customers Success
 
 # Role Mandate
 
-It is the job of the Director, Growth & Commercial Excellence (GCE) to **maintain a consistent trajectory of growth**, while avoiding obstacles that arise from a constantly shifting market. *Growth* — in terms of both **revenue** and **reach** — refers to the cycle of customer acquisition, activation, retention and reactivation. The Director, GCE is accountable for achieving **excellence in Beamery's commercial processes**, which may include ensuring efficient collaborations between Sales, Product Marketing and Customer Support, and effectively exerting agency over tools and tactics to **grow Beamery faster**.
+It is the job of the Director, Growth & Commercial Excellence (GCE) to **maintain a consistent trajectory of growth**, while avoiding obstacles that arise from a constantly shifting market. *Growth* — in terms of both **revenue** and **reach** — refers to the cycle of customer acquisition, activation, retention and reactivation. The Director, GCE is accountable for achieving **excellence in Beamery's commercial processes**, which may include ensuring efficient collaborations between Sales, Product Marketing and Customer Success, and effectively exerting agency over tools and tactics to **grow Beamery faster**.
 
 This role is an Individual Contributor (IC) position; it is both hands-on and manages and coorindates commercial contributions from several teams within Beamery. It is for this reason that the Director, GCE is a member of the **Office of the CEO** team.
 
